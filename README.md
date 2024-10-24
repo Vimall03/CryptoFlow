@@ -1,4 +1,4 @@
-# Eth-deposit-tracker
+# CryptoFlow:  Monitoring and logging Ethereum deposits
 
 I’ve written a script to track Ethereum deposits and log them. Here’s how everything works and how to get it up and running.
 
